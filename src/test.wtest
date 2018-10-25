@@ -1,0 +1,11 @@
+import Obrero.*
+import Construciones_y_materiales.*
+
+
+test "requerimientos" {
+
+	var albanil = new Albanil()
+	var obra = new Contrucciones()
+	
+
+}
